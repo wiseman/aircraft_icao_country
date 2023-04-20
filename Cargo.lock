@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "aircraft_icao_range"
+name = "aircraft_icao_country"
 version = "1.0.0"

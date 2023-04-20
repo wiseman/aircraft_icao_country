@@ -1,5 +1,5 @@
 [package]
-name = "aircraft_icao_range"
+name = "aircraft_icao_country"
 version = "1.0.0"
 edition = "2021"
 
