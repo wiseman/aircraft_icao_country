@@ -1,0 +1,212 @@
+Start,End,Country
+004000,0043ff,Zimbabwe
+006000,006fff,Mozambique
+008000,00ffff,South Africa
+010000,017fff,Egypt
+018000,01ffff,Libyan Arab Jamahiriya
+020000,027fff,Morocco
+028000,02ffff,Tunisia
+030000,0303ff,Botswana
+032000,032fff,Burundi
+034000,034fff,Cameroon
+035000,0353ff,Comoros
+036000,036fff,Congo
+038000,038fff,Cote d'Ivoire
+03e000,03efff,Gabon
+040000,040fff,Ethiopia
+042000,042fff,Equatorial Guinea
+044000,044fff,Ghana
+046000,046fff,Guinea
+048000,0483ff,Guinea-Bissau
+04a000,04a3ff,Lesotho
+04c000,04cfff,Kenya
+050000,050fff,Liberia
+054000,054fff,Madagascar
+058000,058fff,Malawi
+05a000,05a3ff,Maldives
+05c000,05cfff,Mali
+05e000,05e3ff,Mauritania
+060000,0603ff,Mauritius
+062000,062fff,Niger
+064000,064fff,Nigeria
+068000,068fff,Uganda
+06a000,06a3ff,Qatar
+06c000,06cfff,Central African Republic
+06e000,06efff,Rwanda
+070000,070fff,Senegal
+074000,0743ff,Seychelles
+076000,0763ff,Sierra Leone
+078000,078fff,Somalia
+07a000,07a3ff,Swaziland
+07c000,07cfff,Sudan
+080000,080fff,Tanzania
+084000,084fff,Chad
+088000,088fff,Togo
+08a000,08afff,Zambia
+08c000,08cfff,DR Congo
+090000,090fff,Angola
+094000,0943ff,Benin
+096000,0963ff,Cape Verde
+098000,0983ff,Djibouti
+09a000,09afff,Gambia
+09c000,09cfff,Burkina Faso
+09e000,09e3ff,Sao Tome and Principe
+0a0000,0a7fff,Algeria
+0a8000,0a8fff,Bahamas
+0aa000,0aa3ff,Barbados
+0ab000,0ab3ff,Belize
+0ac000,0acfff,Colombia
+0ae000,0aefff,Costa Rica
+0b0000,0b0fff,Cuba
+0b2000,0b2fff,El Salvador
+0b4000,0b4fff,Guatemala
+0b6000,0b6fff,Guyana
+0b8000,0b8fff,Haiti
+0ba000,0bafff,Honduras
+0bc000,0bc3ff,Saint Vincent and the Grenadines
+0be000,0befff,Jamaica
+0c0000,0c0fff,Nicaragua
+0c2000,0c2fff,Panama
+0c4000,0c4fff,Dominican Republic
+0c6000,0c6fff,Trinidad and Tobago
+0c8000,0c8fff,Suriname
+0ca000,0ca3ff,Antigua and Barbuda
+0cc000,0cc3ff,Grenada
+0d0000,0d7fff,Mexico
+0d8000,0dffff,Venezuela
+100000,1fffff,Russia
+201000,2013ff,Namibia
+202000,2023ff,Eritrea
+300000,33ffff,Italy
+340000,37ffff,Spain
+380000,3bffff,France
+3c0000,3fffff,Germany
+400000,4001bf,Bermuda
+4001c0,4001ff,Cayman Islands
+400300,4003ff,Turks and Caicos Islands
+424135,4241f2,Cayman Islands
+424200,4246ff,Bermuda
+424700,424899,Cayman Islands
+424b00,424bff,Isle of Man
+43be00,43beff,Bermuda
+43e700,43eafd,Isle of Man
+43eafe,43eeff,Guernsey
+400000,43ffff,United Kingdom
+440000,447fff,Austria
+448000,44ffff,Belgium
+450000,457fff,Bulgaria
+458000,45ffff,Denmark
+460000,467fff,Finland
+468000,46ffff,Greece
+470000,477fff,Hungary
+478000,47ffff,Norway
+480000,487fff,Kingdom of the Netherlands
+488000,48ffff,Poland
+490000,497fff,Portugal
+498000,49ffff,Czechia
+4a0000,4a7fff,Romania
+4a8000,4affff,Sweden
+4b0000,4b7fff,Switzerland
+4b8000,4bffff,Turkey
+4c0000,4c7fff,Serbia
+4c8000,4c83ff,Cyprus
+4ca000,4cafff,Ireland
+4cc000,4ccfff,Iceland
+4d0000,4d03ff,Luxembourg
+4d2000,4d2fff,Malta
+4d4000,4d43ff,Monaco
+500000,5003ff,San Marino
+501000,5013ff,Albania
+501c00,501fff,Croatia
+502c00,502fff,Latvia
+503c00,503fff,Lithuania
+504c00,504fff,Moldova
+505c00,505fff,Slovakia
+506c00,506fff,Slovenia
+507c00,507fff,Uzbekistan
+508000,50ffff,Ukraine
+510000,5103ff,Belarus
+511000,5113ff,Estonia
+512000,5123ff,Macedonia
+513000,5133ff,Bosnia and Herzegovina
+514000,5143ff,Georgia
+515000,5153ff,Tajikistan
+516000,5163ff,Montenegro
+600000,6003ff,Armenia
+600800,600bff,Azerbaijan
+601000,6013ff,Kyrgyzstan
+601800,601bff,Turkmenistan
+680000,6803ff,Bhutan
+681000,6813ff,"Micronesia, Federated States of"
+682000,6823ff,Mongolia
+683000,6833ff,Kazakhstan
+684000,6843ff,Palau
+700000,700fff,Afghanistan
+702000,702fff,Bangladesh
+704000,704fff,Myanmar
+706000,706fff,Kuwait
+708000,708fff,Laos
+70a000,70afff,Nepal
+70c000,70c3ff,Oman
+70e000,70efff,Cambodia
+710000,717fff,Saudi Arabia
+718000,71ffff,South Korea
+720000,727fff,North Korea
+728000,72ffff,Iraq
+730000,737fff,Iran
+738000,73ffff,Israel
+740000,747fff,Jordan
+748000,74ffff,Lebanon
+750000,757fff,Malaysia
+758000,75ffff,Philippines
+760000,767fff,Pakistan
+768000,76ffff,Singapore
+770000,777fff,Sri Lanka
+778000,77ffff,Syria
+789000,789fff,Hong Kong
+780000,7bffff,China
+7c0000,7fffff,Australia
+800000,83ffff,India
+840000,87ffff,Japan
+880000,887fff,Thailand
+888000,88ffff,Viet Nam
+890000,890fff,Yemen
+894000,894fff,Bahrain
+895000,8953ff,Brunei
+896000,896fff,United Arab Emirates
+897000,8973ff,Solomon Islands
+898000,898fff,Papua New Guinea
+899000,8993ff,Taiwan
+8a0000,8a7fff,Indonesia
+900000,9003ff,Marshall Islands
+901000,9013ff,Cook Islands
+902000,9023ff,Samoa
+a00000,afffff,United States
+c00000,c3ffff,Canada
+c80000,c87fff,New Zealand
+c88000,c88fff,Fiji
+c8a000,c8a3ff,Nauru
+c8c000,c8c3ff,Saint Lucia
+c8d000,c8d3ff,Tonga
+c8e000,c8e3ff,Kiribati
+c90000,c903ff,Vanuatu
+e00000,e3ffff,Argentina
+e40000,e7ffff,Brazil
+e80000,e80fff,Chile
+e84000,e84fff,Ecuador
+e88000,e88fff,Paraguay
+e8c000,e8cfff,Peru
+e90000,e90fff,Uruguay
+e94000,e94fff,Bolivia
+f00000,f07fff,ICAO (temporary)
+f09000,f093ff,ICAO (special use)
+200000,27ffff,Unassigned (AFI region)
+280000,28ffff,Unassigned (SAM region)
+500000,5fffff,Unassigned (EUR / NAT regions)
+600000,67ffff,Unassigned (MID region)
+680000,6fffff,Unassigned (ASIA region)
+900000,9fffff,Unassigned (NAM / PAC regions)
+b00000,bfffff,Unassigned (reserved for future use)
+ec0000,efffff,Unassigned (CAR region)
+d00000,dfffff,Unassigned (reserved for future use)
+f00000,ffffff,Unassigned (reserved for future use)
