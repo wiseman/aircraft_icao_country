@@ -1,13 +1,13 @@
 [package]
 name = "aircraft_icao_country"
-description = "Aircraft ICAO Country"
+description = "Library of aircraft ICAO codes and their country of origin."
 authors = ["John Wiseman <jjwiseman@gmail.com>"]
 repository = "https://github.com/wiseman/aircraft_icao_country"
 keywords = ["aircraft", "icao", "ads-b"]
 categories = ["data-structures"]
 license = "MIT"
 
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
