@@ -16,7 +16,7 @@ Add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-aircraft_icao_country = "1.0.3"
+aircraft_icao_country = "1.0.4"
 ```
 
 ## Usage
