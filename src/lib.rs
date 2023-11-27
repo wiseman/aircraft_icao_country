@@ -18,6 +18,7 @@
 //! This library is licensed under the MIT license.
 
 /// A struct representing the allocation of ICAO hex IDs to countries.
+#[derive(Debug)]
 pub struct Allocs {
     pub ranges: Vec<Range>,
 }
@@ -56,6 +57,7 @@ impl Default for Allocs {
 }
 
 /// A struct representing a range of ICAO hex IDs allocated to a specific country.
+#[derive(Debug)]
 pub struct Range {
     pub start: u32,
     pub end: u32,
